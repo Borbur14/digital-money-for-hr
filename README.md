@@ -4,6 +4,8 @@ Two free datasets for HR, reward and finance teams that need to understand stabl
 
 By **[Borja Burguillos](https://borbur.net/about/)**, author of *[Stablecoins for a Better World](https://borbur.net/books/stablecoins-for-a-better-world/)* and *[Why Bitcoin Had to Exist](https://borbur.net/books/why-bitcoin-had-to-exist/)*. Licence: [CC BY 4.0](LICENSE).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24456615.svg)](https://doi.org/10.5281/zenodo.24456615) Also archived on Zenodo: [doi.org/10.5281/zenodo.24456615](https://doi.org/10.5281/zenodo.24456615).
+
 ## What's inside
 
 | File | What it is | Rows |
