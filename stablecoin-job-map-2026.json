@@ -1,0 +1,190 @@
+{
+ "name": "Stablecoin and digital-money job map 2026: five job families, four levels",
+ "description": "A job architecture for stablecoin issuers, banks and corporates: five job families (compliance, risk and regulatory affairs; custody and key security; issuance, reserves and treasury; tokenisation and product; corporate digital treasury), four levels each from specialist to executive, example titles in English and Spanish, and the field most hires come from.",
+ "source": "https://borbur.net/topics/digital-money-jobs/",
+ "author": "Borja Burguillos",
+ "license": "CC BY 4.0 https://creativecommons.org/licenses/by/4.0/",
+ "date_modified": "2026-11-22",
+ "rows": [
+  {
+   "family": "Compliance, risk and regulatory affairs",
+   "level": 1,
+   "level_name": "Specialist",
+   "example_titles": "Transaction-monitoring and on-chain analytics analyst; travel-rule operations; KYC analyst",
+   "family_es": "Cumplimiento, riesgos y asuntos regulatorios",
+   "example_titles_es": "Analista de seguimiento de transacciones y analítica en cadena; operaciones de travel rule; analista KYC",
+   "typical_background": "Bank compliance and financial-crime teams"
+  },
+  {
+   "family": "Compliance, risk and regulatory affairs",
+   "level": 2,
+   "level_name": "Senior / lead",
+   "example_titles": "Senior compliance manager for digital assets; sanctions and blockchain-analytics lead; risk manager; licensing and regulatory affairs manager",
+   "family_es": "Cumplimiento, riesgos y asuntos regulatorios",
+   "example_titles_es": "Gerente sénior de cumplimiento en activos digitales; líder de sanciones y analítica blockchain; gestor de riesgos; gerente de licencias y asuntos regulatorios",
+   "typical_background": "Bank compliance and financial-crime teams"
+  },
+  {
+   "family": "Compliance, risk and regulatory affairs",
+   "level": 3,
+   "level_name": "Head of",
+   "example_titles": "MLRO; Head of Digital Asset Compliance; Head of Risk",
+   "family_es": "Cumplimiento, riesgos y asuntos regulatorios",
+   "example_titles_es": "MLRO; Head of Digital Asset Compliance; Head of Risk",
+   "typical_background": "Bank compliance and financial-crime teams"
+  },
+  {
+   "family": "Compliance, risk and regulatory affairs",
+   "level": 4,
+   "level_name": "Executive",
+   "example_titles": "Chief Compliance Officer or Chief Risk Officer with a digital-asset mandate",
+   "family_es": "Cumplimiento, riesgos y asuntos regulatorios",
+   "example_titles_es": "Director de Cumplimiento (CCO) o de Riesgos (CRO) con mandato sobre activos digitales",
+   "typical_background": "Bank compliance and financial-crime teams"
+  },
+  {
+   "family": "Custody and key security",
+   "level": 1,
+   "level_name": "Specialist",
+   "example_titles": "Custody operations analyst; wallet operations",
+   "family_es": "Custodia y seguridad de claves",
+   "example_titles_es": "Analista de operaciones de custodia; operaciones de wallets",
+   "typical_background": "Security engineering"
+  },
+  {
+   "family": "Custody and key security",
+   "level": 2,
+   "level_name": "Senior / lead",
+   "example_titles": "Key-management or wallet-security engineer; custody operations lead",
+   "family_es": "Custodia y seguridad de claves",
+   "example_titles_es": "Ingeniero de gestión de claves o de seguridad de wallets; líder de operaciones de custodia",
+   "typical_background": "Security engineering"
+  },
+  {
+   "family": "Custody and key security",
+   "level": 3,
+   "level_name": "Head of",
+   "example_titles": "Head of Custody; CISO for a custody or exchange licence",
+   "family_es": "Custodia y seguridad de claves",
+   "example_titles_es": "Head of Custody; CISO para una licencia de custodia o de exchange",
+   "typical_background": "Security engineering"
+  },
+  {
+   "family": "Custody and key security",
+   "level": 4,
+   "level_name": "Executive",
+   "example_titles": "Chief Information Security Officer",
+   "family_es": "Custodia y seguridad de claves",
+   "example_titles_es": "Director de Seguridad de la Información (CISO)",
+   "typical_background": "Security engineering"
+  },
+  {
+   "family": "Issuance, reserves and treasury",
+   "level": 1,
+   "level_name": "Specialist",
+   "example_titles": "Reserve and liquidity analyst; reconciliation and attestation support",
+   "family_es": "Emisión, reservas y tesorería",
+   "example_titles_es": "Analista de reservas y liquidez; apoyo a conciliación y certificación",
+   "typical_background": "Payments and treasury"
+  },
+  {
+   "family": "Issuance, reserves and treasury",
+   "level": 2,
+   "level_name": "Senior / lead",
+   "example_titles": "Treasury manager for stablecoin reserves; redemption operations lead",
+   "family_es": "Emisión, reservas y tesorería",
+   "example_titles_es": "Gestor de tesorería de las reservas de la stablecoin; líder de operaciones de reembolso",
+   "typical_background": "Payments and treasury"
+  },
+  {
+   "family": "Issuance, reserves and treasury",
+   "level": 3,
+   "level_name": "Head of",
+   "example_titles": "Head of Reserve Management; Head of Stablecoin Operations",
+   "family_es": "Emisión, reservas y tesorería",
+   "example_titles_es": "Head of Reserve Management; Head of Stablecoin Operations",
+   "typical_background": "Payments and treasury"
+  },
+  {
+   "family": "Issuance, reserves and treasury",
+   "level": 4,
+   "level_name": "Executive",
+   "example_titles": "CFO or Treasurer of the issuing entity",
+   "family_es": "Emisión, reservas y tesorería",
+   "example_titles_es": "Director financiero (CFO) o tesorero de la entidad emisora",
+   "typical_background": "Payments and treasury"
+  },
+  {
+   "family": "Tokenisation and product",
+   "level": 1,
+   "level_name": "Specialist",
+   "example_titles": "Product analyst; smart-contract developer",
+   "family_es": "Tokenización y producto",
+   "example_titles_es": "Analista de producto; desarrollador de contratos inteligentes",
+   "typical_background": "Product and legal structuring"
+  },
+  {
+   "family": "Tokenisation and product",
+   "level": 2,
+   "level_name": "Senior / lead",
+   "example_titles": "Digital-asset product manager; tokenisation structuring lead (legal and finance)",
+   "family_es": "Tokenización y producto",
+   "example_titles_es": "Product manager de activos digitales; líder de estructuración de la tokenización (jurídica y financiera)",
+   "typical_background": "Product and legal structuring"
+  },
+  {
+   "family": "Tokenisation and product",
+   "level": 3,
+   "level_name": "Head of",
+   "example_titles": "Head of Tokenisation; Head of Digital Assets Product",
+   "family_es": "Tokenización y producto",
+   "example_titles_es": "Head of Tokenisation; Head of Digital Assets Product",
+   "typical_background": "Product and legal structuring"
+  },
+  {
+   "family": "Tokenisation and product",
+   "level": 4,
+   "level_name": "Executive",
+   "example_titles": "Head of Digital Assets for the bank or group",
+   "family_es": "Tokenización y producto",
+   "example_titles_es": "Head of Digital Assets del banco o del grupo",
+   "typical_background": "Product and legal structuring"
+  },
+  {
+   "family": "Corporate digital treasury",
+   "level": 1,
+   "level_name": "Specialist",
+   "example_titles": "Treasury or payments analyst using stablecoin rails",
+   "family_es": "Tesorería digital corporativa",
+   "example_titles_es": "Analista de tesorería o pagos que usa los raíles de stablecoins",
+   "typical_background": "Treasury and payments"
+  },
+  {
+   "family": "Corporate digital treasury",
+   "level": 2,
+   "level_name": "Senior / lead",
+   "example_titles": "Treasury manager, digital payments; payroll and accounting lead for token flows",
+   "family_es": "Tesorería digital corporativa",
+   "example_titles_es": "Gestor de tesorería, pagos digitales; líder de nómina y contabilidad de flujos en tokens",
+   "typical_background": "Treasury and payments"
+  },
+  {
+   "family": "Corporate digital treasury",
+   "level": 3,
+   "level_name": "Head of",
+   "example_titles": "Head of Treasury with digital-money remit",
+   "family_es": "Tesorería digital corporativa",
+   "example_titles_es": "Head of Treasury con competencias en dinero digital",
+   "typical_background": "Treasury and payments"
+  },
+  {
+   "family": "Corporate digital treasury",
+   "level": 4,
+   "level_name": "Executive",
+   "example_titles": "CFO",
+   "family_es": "Tesorería digital corporativa",
+   "example_titles_es": "Director financiero (CFO)",
+   "typical_background": "Treasury and payments"
+  }
+ ]
+}

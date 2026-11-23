@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to borbur.net."
+title: "Digital money for HR: glossary of 60 terms and stablecoin job map (2026)"
+type: dataset
+authors:
+  - family-names: Burguillos
+    given-names: Borja
+    website: "https://borbur.net/about/"
+date-released: 2026-11-23
+license: CC-BY-4.0
+url: "https://borbur.net/topics/digital-money-glossary/"
+repository-code: "https://github.com/Borbur14/digital-money-for-hr"
+keywords:
+  - stablecoins
+  - digital money
+  - HR
+  - compensation
+  - MiCA
+  - GENIUS Act
+  - UAE
+  - glossary
